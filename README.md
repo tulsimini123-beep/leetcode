@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tulsimini123-beep/leetcode/tree/master/0008-string-to-integer-atoi) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tulsimini123-beep/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
