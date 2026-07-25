@@ -1,20 +1,24 @@
-int maxArea(int* height, int heightSize) {
+int maxArea(int* height, int heightSize){
     int left = 0;
     int right = heightSize - 1;
-    int maxWater = 0;
+    int maxArea = 0;
 
-    while (left < right) {
-        int h = (height[left] < height[right]) ? height[left] : height[right];
-        int area = h * (right - left);
-
-        if (area > maxWater)
-            maxWater = area;
-
-        if (height[left] < height[right])
+    while(left < right){
+        int h;
+        if(height[left] < height[right])
+            h = height[left];
+            else
+            h = height[right];
+            
+            int width = right - left;
+            int area = h * width;
+            if (area > maxArea)
+            maxArea = area;
+            if(height[left] < height[right]) 
             left++;
-        else
+            else 
             right--;
+        
     }
-
-    return maxWater;
+    return maxArea;
 }
