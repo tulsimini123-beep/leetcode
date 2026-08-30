@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tulsimini123-beep/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tulsimini123-beep/leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/tulsimini123-beep/leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/tulsimini123-beep/leetcode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tulsimini123-beep/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tulsimini123-beep/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tulsimini123-beep/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tulsimini123-beep/leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/tulsimini123-beep/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
