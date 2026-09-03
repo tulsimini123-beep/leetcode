@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tulsimini123-beep/leetcode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/tulsimini123-beep/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tulsimini123-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tulsimini123-beep/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tulsimini123-beep/leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tulsimini123-beep/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tulsimini123-beep/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tulsimini123-beep/leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tulsimini123-beep/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/tulsimini123-beep/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
