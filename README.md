@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tulsimini123-beep/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tulsimini123-beep/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tulsimini123-beep/leetcode/tree/master/0242-valid-anagram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tulsimini123-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -156,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tulsimini123-beep/leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tulsimini123-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tulsimini123-beep/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tulsimini123-beep/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/tulsimini123-beep/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
